@@ -1,13 +1,13 @@
 # 1. Preamble
-We, the people of Democratic Transylvania, affirm our independence, declared on December 1st, 2023, and rooted in our founding on April 12th, 2021. United by the principles of democracy and freedom, we are governed by the rule of law, where human dignity, citizens' rights and freedoms, the free development of human personality, justice, and political pluralism represent supreme values and are guaranteed.  
+We, the people of Democratic Transylvania, affirm our regional autonomy within Danzilona, ratified on October Xth, 2025, and rooted in our founding on April 12th, 2021. United by the principles of democracy and freedom, we are governed by the rule of law, where human dignity, citizens' rights and freedoms, the free development of human personality, justice, and political pluralism represent supreme values, and are guaranteed.  
 # 2. Identity
-### Article 1 - National attributes
-2.1.1. The National colours of Transylvania are Blue, Red and Yellow.  
-2.1.2. The National Motto of Transylvania is “Glory to Transylvania”.  
-2.1.3. The national anthem of Transylvania is “Siebenbürgenlied”
+### Article 1 - Transylvanian attributes
+2.1.1. The colours of Transylvania are Blue, Red and Yellow.  
+2.1.2. The Motto of Transylvania is “Glory to Transylvania”.  
+2.1.3. The anthem of Transylvania is “Siebenbürgenlied”.  
 2.1.4. The capital of Transylvania is Cluj-Napoca.  
 # 3. Citizenship
-All Citizens are equal within the public institutions of Transylvania.
+All Citizens are equal within the public institutions of Transylvania.  
 ### Article 1 - Fundamental Rights
 All Citizens share the same inalienable rights:  
 3.1.1. Right to free speech, thought and expression.  
@@ -18,11 +18,6 @@ All Citizens share the same inalienable rights:
 All Citizens are responsible, respective to their abilities, for the following duties:  
 3.2.1. Duty of protecting the Nation’s sovereignty.  
 3.2.2. Duty of confidentiality regarding sensitive information.  
-### Article 3 - Citizen Criterion
-Requirements to gain and maintain citizenship:  
-3.3.1. Citizenship may only be granted by decree through the Ecclesia.  
-3.3.2. New Citizens may not hold public offices in any other nation.  
-3.3.3. Citizens are required to attend Assembly at least once a month.  
 # 4. Ecclesia
 The Assembly of Citizens acting as the decision-making body of Transylvania.  
 ### Article 1 - Assembly procedures
@@ -52,7 +47,7 @@ Common qualities in most magistrative positions:
 5.1.2. A Citizen may not be in more than one position per term.  
 5.1.3. Positions are elected by popular vote during the Monthly Assembly.  
 5.1.4. Magistrates may be organised through an external charter passed in the Assembly.  
-       i. Charters that grant magistratives authoritative powers must include a consecutive-term limit.   
+       i. Charters that grant magistrates authoritative powers must include a consecutive-term limit.   
 ### Article 2 - Civil magistrates
 Magistrates concerned with civil matters.  
 5.2.1. Agricultural Magistrate.  
@@ -61,13 +56,8 @@ Magistrates concerned with civil matters.
 5.2.4. Law Magistrate - selected by lot.
 ### Article 3 - Territorial
 5.3.1. Mayors for each city.  
-### Article 4 - Military
-Hierarchically structured magistrates.  
-5.4.1. Polemarch.  
-5.4.2. Two Strategoi.  
-5.4.3. Two Taxiarchs.  
-### Article 5 - Phainarchoi
-Ceremonial position for people holding crucial *primary ownership* for the nation.  
+### Article 4 - Phainarchoi
+Ceremonial position for people holding crucial *primary ownership* for Transylvania.  
 5.5.1. Phainarchoi positions do not follow the common scope from Article 1 (5.1).  
 5.5.2. Eponymous Archon - Xa_n.  
 # 6. Judicial
@@ -92,4 +82,4 @@ The litigants are separated into the parties of the accusers and the accused.
 6.3.2. Any Citizen may review the term of a Magistrate and sue them for the misuse of their position during that term.  
 6.3.3. Both parties are vested with equal ability to represent themselves during the trial.  
 # 7. Amendments
-The constitution may be amended by a bill passed with a 70% majority vote in the Ecclesia.  
+The constitution may be amended by a bill passed with a 70% majority vote in the Ecclesia, or by directive from Danzilona.  
